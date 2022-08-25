@@ -1,0 +1,3 @@
+import qrcode
+
+qrcode.init()
